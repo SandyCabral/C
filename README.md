@@ -1,4 +1,4 @@
-# Meu Repositório de Estudos e Projetos em C
+# Meu Repositório de Estudos e Projetos em C 👾
 
 Este repositório serve como um portfólio centralizado para meus estudos, exercícios e projetos desenvolvidos na linguagem C. 
 
