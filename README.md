@@ -7,8 +7,8 @@ O objetivo é documentar meu progresso e organizar o código de forma clara.
 Está organizado nas seguintes pastas:
 
 
-- **/Estrutura de Dados**: Exercícios da disciplina de Estrutura de Dados do meu 3º período na UFF cursando Sistemas de Informação
-- **/Programação de Computadores II**: Exercícios da disciplina de Programação de Computadores II do meu 2º período na UFF cursando Sistemas de Informação
+- **Estrutura de Dados**: Exercícios da disciplina de Estrutura de Dados do meu 3º período na UFF cursando Sistemas de Informação
+- **Programação de Computadores II**: Exercícios da disciplina de Programação de Computadores II do meu 2º período na UFF cursando Sistemas de Informação
 
 ## 📫 Como me Encontrar
 
